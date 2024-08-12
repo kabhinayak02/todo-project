@@ -28,7 +28,7 @@ A simple todo application built with TypeScript, Vite, ReactJS, Context API, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-project.git
+   git clone https://github.com/kabhinayak02/todo-project.git
     ```
 2. Navigate into the project directory:
     ```bash
